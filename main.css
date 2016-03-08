@@ -1,0 +1,61 @@
+body {
+	width:700px;
+	background:#ecf0f1;
+	margin:0 auto;
+	padding:0;
+	font-family: 'Raleway', sans-serif;
+}
+
+header {
+	margin: 10px 40px;
+	clear:both;
+}
+header #logo {
+	float:left;
+	font-size:20px;
+	margin-top:10px;
+	text-decoration:none;
+	text-transform:uppercase;
+}
+header nav ul {
+	float:right;
+}
+header nav ul li {
+	display:inline-block;
+	margin-left:10px;
+}
+
+/*slider section*/
+.third {
+	clear:both;
+}
+#slider {
+	width:400px;
+	height:300px;
+	overflow:hidden;
+}
+#slider .slides {
+	display:block;
+	width:6000px;
+	height:400px;
+	margin:0;
+	padding:0;
+}
+#slider .slide {
+	float:left;
+	list-style-type:none;
+	width:400px;
+	height:300px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
